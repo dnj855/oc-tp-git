@@ -1,0 +1,1 @@
+Le projet est donc de créer un repository complet pour montrer qu'on a bien commencé à apprendre à utiliser GitHub.
